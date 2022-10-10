@@ -1,0 +1,1 @@
+Olá sou Pidinha2 sou aluno do primeiro ano do colegio de São Clemente na aula de pensamento computacional aprendemos sobre como fazer jogos programar eles e ressolver "bugues" e queria aprender como criar jogos mais complexos
